@@ -1,0 +1,6 @@
+fastapi 
+easyocr
+pillow
+numpy 
+opencv-python
+uvicorn 
