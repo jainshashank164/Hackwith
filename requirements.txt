@@ -1,6 +1,8 @@
-fastapi 
+langchain
+langchain-google-genai
 easyocr
+fastapi
 Pillow
 numpy 
 opencv-python-headless
-uvicorn 
+uvicorn
